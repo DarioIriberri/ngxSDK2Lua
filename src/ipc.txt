@@ -1,0 +1,14 @@
+ipc.readUB(offset) 		1	unsigned 			byte
+ipc.readSB(offset) 		1	signed 				byte
+ipc.readUW(offset)		2	unsigned 			word
+ipc.readSW(offset)		2	signed 				word
+ipc.readUD(offset)		4	unsigned			integer
+ipc.readSD(offset)		4	signed 				integer
+ipc.readFLT(offset)		4
+ipc.readDD(offset)		8	signed integer
+ipc.readDBL(offset)		8
+
+ipc.readSTR(offset, length)
+
+
+
