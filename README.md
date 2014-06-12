@@ -66,6 +66,7 @@ to enable the data communication output with the NGX.
 
 It will also add (or edit) the file <FSX ROOT>/Modules/ipcReady.lua to launch the dll when you start 
 a flight with the NGX.
+
 ----------------------------------------------------------------------------------------------------
 
 PROGRAM YOUR OWN MODULES
